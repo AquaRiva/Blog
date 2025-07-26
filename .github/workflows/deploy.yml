@@ -3,7 +3,7 @@ name: Deploy Quartz v4 to GitHub Pages
 on:
   push:
     branches:
-      - v4  # 또는 main, 너가 쓰는 브랜치 이름
+      - v4  # ← 네 브랜치 이름에 맞게 수정
 
 permissions:
   contents: write
@@ -20,12 +20,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'pnpm'
 
-      - name: Enable corepack and install pnpm
-        run: |
-          corepack enable
-          corepack prepare pnpm@8.10.5 --activate
+      - name: Install pnpm (global)
+        run: npm install -g pnpm
 
       - name: Install dependencies
         run: pnpm install
