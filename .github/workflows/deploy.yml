@@ -3,7 +3,7 @@ name: Deploy Quartz v4 to GitHub Pages
 on:
   push:
     branches:
-      - v4  # 또는 네가 작업 중인 브랜치 이름으로 수정 (예: main)
+      - v4  # 또는 네가 사용하는 브랜치
 
 permissions:
   contents: write
@@ -22,7 +22,9 @@ jobs:
           cache: "pnpm"
 
       - name: Install pnpm
-        run: npm install -g pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
 
       - name: Install dependencies
         run: pnpm install
