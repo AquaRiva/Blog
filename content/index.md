@@ -26,8 +26,15 @@ aliases:
 **Spring Boot 기반 웹 애플리케이션의 클라우드 배포 및 MSA 전환**
 
 - **주요 기술:** Spring Boot, AWS EKS, Kubernetes, Docker, GitHub Actions, Jenkins, ArgoCD
-- **기간:** 2025.05.03 ~ 2025.06.01
+- **기간:** 2025.06.19 ~ 2025.07.11
 - **목표:** Spring Boot 웹 애플리케이션의 클라우드 배포 및 MSA 아키텍처 전환
+
+### 🚀 [3차 프로젝트 포트폴리오](./portfolio-third-project.md)
+**Terraform을 활용한 IaC와 시나리오 기반 클라우드 DR 환경 구성**
+
+- **주요 기술:** Terraform, AWS, Kubernetes, Helm, ArgoCD, Prometheus, Grafana, Jenkins
+- **기간:** 2025.06.02 ~ 2025.07.01
+- **목표:** Terraform을 활용한 IaC 구현 및 시나리오 기반 클라우드 DR 환경 구성
 
 ---
 
