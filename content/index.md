@@ -11,6 +11,7 @@ aliases:
 안녕하세요. 클라우드 엔지니어, DevOps 엔지니어를 희망하는 홍명기입니다. 
 
 - [이력서 보러가기](./resume.md)
+- [포트폴리오 보러가기](./portfolio-onetouch.md)
 
 ---
 
