@@ -15,21 +15,21 @@ aliases:
 ### 📄 [이력서 보러가기](./resume.md)
 클라우드 엔지니어, DevOps 엔지니어를 희망하는 홍명기의 이력서입니다.
 
-### 🚀 [One Touch 프로젝트 포트폴리오](./portfolio-onetouch.md)
+### 🚀 [One Touch 1차 프로젝트 포트폴리오](./portfolio-onetouch.md)
 **IaC를 주제로 Python, Ansible, PowerShell을 활용하여 인프라를 코드로 자동화한 1차 프로젝트**
 
 - **주요 기술:** Python, Ansible, PowerShell, VMware, GNS3, TrueNAS
 - **기간:** 2025.04.09 ~ 2025.05.02
 - **목표:** 코드 기반 인프라 자동화 환경 구축 및 실습
 
-### 🚀 [2차 프로젝트 포트폴리오](./portfolio-second-project.md)
+### 🚀 [One Touch 2차 프로젝트 포트폴리오](./portfolio-second-project.md)
 **Spring Boot 기반 웹 애플리케이션의 클라우드 배포 및 MSA 전환**
 
 - **주요 기술:** Spring Boot, AWS EKS, Kubernetes, Docker, GitHub Actions, Jenkins, ArgoCD
 - **기간:** 2025.06.19 ~ 2025.07.11
 - **목표:** Spring Boot 웹 애플리케이션의 클라우드 배포 및 MSA 아키텍처 전환
 
-### 🚀 [3차 프로젝트 포트폴리오](./portfolio-third-project.md)
+### 🚀 [One Touch 3차 프로젝트 포트폴리오](./portfolio-third-project.md)
 **Terraform을 활용한 IaC와 시나리오 기반 클라우드 DR 환경 구성**
 
 - **주요 기술:** Terraform, AWS, Kubernetes, Helm, ArgoCD, Prometheus, Grafana, Jenkins
