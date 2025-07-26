@@ -10,25 +10,31 @@
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ 소개 안녕하세요. 클라우드 엔지니어, DevOps 엔지니어를 희망하는 홍명기입니다. 주요 링크 📄 이력서 보러가기 클라우드 엔지니어, DevOps 엔지니어를 희망하는 홍명기의 이력서입니다. ]]></description>
-    <pubDate>Sat, 26 Jul 2025 03:55:03 GMT</pubDate>
+    <pubDate>Sat, 26 Jul 2025 04:15:56 GMT</pubDate>
   </item><item>
     <title>One Touch 프로젝트 포트폴리오</title>
     <link>https://quartz.jzhao.xyz/portfolio-onetouch</link>
     <guid>https://quartz.jzhao.xyz/portfolio-onetouch</guid>
     <description><![CDATA[ One Touch: 코드로 인프라 자동화 IaC를 주제로 Python, Ansible, PowerShell을 활용하여 인프라를 코드로 자동화한 1차 프로젝트입니다. ]]></description>
-    <pubDate>Sat, 26 Jul 2025 03:55:03 GMT</pubDate>
+    <pubDate>Sat, 26 Jul 2025 04:15:56 GMT</pubDate>
   </item><item>
     <title>2차 프로젝트 포트폴리오</title>
     <link>https://quartz.jzhao.xyz/portfolio-second-project</link>
     <guid>https://quartz.jzhao.xyz/portfolio-second-project</guid>
     <description><![CDATA[ 2차 프로젝트: Spring Boot 기반 웹 애플리케이션의 클라우드 배포 및 MSA 전환 Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하고, Monolithic에서 MSA로 전환하는 프로젝트입니다. ]]></description>
-    <pubDate>Sat, 26 Jul 2025 03:55:03 GMT</pubDate>
+    <pubDate>Sat, 26 Jul 2025 04:15:56 GMT</pubDate>
+  </item><item>
+    <title>3차 프로젝트 포트폴리오</title>
+    <link>https://quartz.jzhao.xyz/portfolio-third-project</link>
+    <guid>https://quartz.jzhao.xyz/portfolio-third-project</guid>
+    <description><![CDATA[ 3차 프로젝트: Terraform을 활용한 IaC와 시나리오 기반 클라우드 DR 환경 구성 Terraform을 활용하여 Infrastructure as Code(IaC)를 구현하고, 시나리오 기반의 클라우드 재해복구(DR) 환경을 구성한 프로젝트입니다. ]]></description>
+    <pubDate>Sat, 26 Jul 2025 04:15:56 GMT</pubDate>
   </item><item>
     <title>resume</title>
     <link>https://quartz.jzhao.xyz/resume</link>
     <guid>https://quartz.jzhao.xyz/resume</guid>
     <description><![CDATA[ 이력서 1. 성격의 장점 예상치 못한 문제가 발생해도 당황하지 않고, 차분하게 원인을 분석하고 해결 방안을 찾는 점이 강점입니다. 대학시절 동아리 활동을 하며 팀원들과 함께 리눅스 기반 서버를 구성하고 간단한 웹 서비스를 배포하는 과제를 수행한 적이 있습니다. ]]></description>
-    <pubDate>Sat, 26 Jul 2025 03:55:03 GMT</pubDate>
+    <pubDate>Sat, 26 Jul 2025 04:15:56 GMT</pubDate>
   </item>
     </channel>
   </rss>
