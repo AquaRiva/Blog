@@ -21,6 +21,7 @@ aliases:
 - **주요 기술:** Python, Ansible, PowerShell, VMware, GNS3, TrueNAS
 - **기간:** 2025.04.09 ~ 2025.05.02
 - **목표:** 코드 기반 인프라 자동화 환경 구축 및 실습
+- **주요 성과:** 인프라 구축 시간 94% 단축, 인적 오류 100% 감소
 
 ### 🚀 [One Touch 2차 프로젝트 포트폴리오](./portfolio-second-project.md)
 **Spring Boot 기반 웹 애플리케이션의 클라우드 배포 및 MSA 전환**
@@ -28,6 +29,7 @@ aliases:
 - **주요 기술:** Spring Boot, AWS EKS, Kubernetes, Docker, GitHub Actions, Jenkins, ArgoCD
 - **기간:** 2025.06.19 ~ 2025.07.11
 - **목표:** Spring Boot 웹 애플리케이션의 클라우드 배포 및 MSA 아키텍처 전환
+- **주요 성과:** 배포 시간 92% 단축, 서비스 가용성 99.9% 달성
 
 ### 🚀 [One Touch 3차 프로젝트 포트폴리오](./portfolio-third-project.md)
 **Terraform을 활용한 IaC와 시나리오 기반 클라우드 DR 환경 구성**
@@ -35,6 +37,7 @@ aliases:
 - **주요 기술:** Terraform, AWS, Kubernetes, Helm, ArgoCD, Prometheus, Grafana, Jenkins
 - **기간:** 2025.06.02 ~ 2025.07.01
 - **목표:** Terraform을 활용한 IaC 구현 및 시나리오 기반 클라우드 DR 환경 구성
+- **주요 성과:** 인프라 구축 시간 98% 단축, RTO 92% 단축
 
 ---
 
