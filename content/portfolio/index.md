@@ -41,7 +41,7 @@ tags: [portfolio, projects]
       </ul>
     </div>
     <div class="portfolio-card-action">
-      <a href="./portfolio-onetouch.md" class="action-button">
+      <a href="./portfolio-first-project.md" class="action-button">
         <span>자세히 보기 →</span>
       </a>
     </div>
