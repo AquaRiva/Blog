@@ -35,7 +35,7 @@ aliases:
 **Terraform을 활용한 IaC와 시나리오 기반 클라우드 DR 환경 구성**
 
 - **주요 기술:** Terraform, AWS, Kubernetes, Helm, ArgoCD, Prometheus, Grafana, Jenkins
-- **기간:** 2025.06.02 ~ 2025.07.01
+- **기간:** 2025.07.08 ~ 2025.07.24
 - **목표:** Terraform을 활용한 IaC 구현 및 시나리오 기반 클라우드 DR 환경 구성
 - **주요 성과:** 인프라 구축 시간 98% 단축, RTO 92% 단축
 
