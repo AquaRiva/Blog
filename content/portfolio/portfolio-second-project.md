@@ -93,10 +93,10 @@ Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하�
 ## CI/CD 파이프라인 구축
 ### CI/CD 구성도
 #### Monolith CI/CD
-![Monolithic CI/CD](./images/Monolithic_CI/CD.png)
+![Monolithic CI/CD](./images/monolithic-cicd.png)
 
 #### MSA CI/CD
-![MSA CI/CD](./images/MSA_CI/CD.jpg) 
+![MSA CI/CD](./images/msa-cicd.jpg) 
 
 ### 목표
 - GitOps 기반의 완전 자동화된 배포 파이프라인 구축

@@ -41,7 +41,7 @@ IaC를 주제로 Python, Ansible, PowerShell을 활용하여 인프라를 코드
 </div>
 
 ## 전체 아키텍처
-![구성도](./images/onetouch-architecture.png)
+![구성도](./images/first-project-architecture.png)
 
 <div class="tech-stack">
 
