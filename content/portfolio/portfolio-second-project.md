@@ -42,11 +42,11 @@ Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하�
 
 ## 전체 아키텍처
 
-### MSA 아키텍처 구성도
-![MSA 구성도](./images/second-project-architecture-MSA.png)
-
 ### Monolithic 아키텍처 구성도
 ![Monolithic 구성도](./images/second-project-architecture-Monolithic.png)
+
+### MSA 아키텍처 구성도
+![MSA 구성도](./images/second-project-architecture-MSA.png)
 
 ## Monolithic 아키텍처 구현
 ### 목표
@@ -62,7 +62,7 @@ Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하�
 - **멀티 AZ 구성:** 2개의 가용영역(AZ)에 고가용성 인프라 구축
 - **Public Subnet:** 각 AZ에 1개씩, 총 2개의 Public Subnet으로 ALB 고가용성 확보
 - **Private Subnet:** 각 AZ에 1개씩, 총 2개의 Private Subnet으로 워커노드 고가용성 확보
-- **Application Load Balancer:** 멀티 AZ 구성으로 단일 장애점 제거
+- **Application Load Balancer:** 애플리케이션의 외부 접근 경로 제공
 - **EKS 클러스터:** Private Subnet에 배치된 워커노드로 안전한 애플리케이션 실행
 
 ### 성과
@@ -91,6 +91,13 @@ Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하�
 ---
 
 ## CI/CD 파이프라인 구축
+### CI/CD 구성도
+#### Monolith CI/CD
+![Monolithic CI/CD](./images/Monolithic_CI/CD.png)
+
+#### MSA CI/CD
+![MSA CI/CD](./images/MSA_CI/CD.jpg) 
+
 ### 목표
 - GitOps 기반의 완전 자동화된 배포 파이프라인 구축
 
@@ -108,6 +115,8 @@ Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하�
 ---
 
 ## 모니터링 및 알림 시스템
+### CI/CD 구성도
+
 ### 목표
 - 실시간 모니터링 및 자동 알림 시스템 구축
 
