@@ -1,30 +1,51 @@
 ---
-title: 3차 프로젝트 포트폴리오
+title: Terraform을 활용한 IaC와 클라우드 DR
 draft: false
 tags: [프로젝트, 인프라, 자동화, IaC, Terraform, DR]
 aliases:
   - 3차 프로젝트
 ---
 
-# 3차 프로젝트: Terraform을 활용한 IaC와 시나리오 기반 클라우드 DR 환경 구성
+<div class="portfolio-content">
 
+<div class="portfolio-header">
 Terraform을 활용하여 Infrastructure as Code(IaC)를 구현하고, 시나리오 기반의 클라우드 재해복구(DR) 환경을 구성한 프로젝트입니다.
 
+</div>
+
+<div class="portfolio-overview">
+
 ## 프로젝트 개요
+
 - **목표:** Terraform을 활용한 IaC 구현 및 시나리오 기반 클라우드 DR 환경 구성
 - **주요 기술:** Terraform, AWS, Kubernetes, Helm, ArgoCD, Prometheus, Grafana, Jenkins
 - **기간:** 2025.06.02 ~ 2025.07.01
 
+</div>
+
+<div class="team-section">
+
 ## 팀 구성 및 역할
+
+<div class="team-grid">
+
 - **PM 최호준:** 프로젝트 총괄, CI/CD 구성, REPO 관리
 - **PL 홍명기:** 기술스택 담당, Terraform Cloud
 - **발표자 박선우:** 발표, 백업 구현, 발표 자료 작성
 - **서기 이성현:** 문서 작성, Terraform Local, RDS
 
+</div>
+
+</div>
+
 ## 전체 아키텍처
 ![프로젝트 개요](./images/third-project-architecture.png)
 
+<div class="tech-stack">
+
 ## 사용한 주요 스택
+
+<div class="tech-grid">
 
 ### 인프라 자동화
 - **Terraform:** Infrastructure as Code 구현
@@ -48,6 +69,10 @@ Terraform을 활용하여 Infrastructure as Code(IaC)를 구현하고, 시나리
 - **Prometheus:** 메트릭 수집 및 저장
 - **Grafana:** 대시보드 및 알림 관리
 - **AWS Backup:** EC2, RDS, ECR 백업 자동화
+
+</div>
+
+</div>
 
 ## 프로젝트 주요 내용
 
@@ -155,33 +180,6 @@ Terraform을 활용하여 Infrastructure as Code(IaC)를 구현하고, 시나리
 
 ---
 
-## 기술 스택 상세
-
-### 인프라 자동화
-- **Terraform:** Infrastructure as Code 구현
-- **Terraform Cloud:** 클라우드 기반 Terraform 관리
-- **Terraform Local:** 로컬 환경에서의 Terraform 실행
-
-### 클라우드 인프라
-- **AWS EKS:** Kubernetes 클러스터 관리
-- **AWS ECR:** 컨테이너 이미지 저장소
-- **AWS RDS:** Managed MariaDB 서비스
-- **AWS Backup:** 자동화된 백업 서비스
-- **AWS S3:** 백업 데이터 저장소
-
-### CI/CD 도구
-- **GitHub Actions:** 소스코드 빌드 및 이미지 푸시
-- **Jenkins:** 파이프라인 구축 및 자동화 작업
-- **ArgoCD:** GitOps 배포 자동화 도구
-- **Helm:** 리소스 정의 및 템플릿화
-
-### 모니터링 및 백업
-- **Prometheus:** 메트릭 수집 및 저장
-- **Grafana:** 대시보드 및 알림 관리
-- **AWS Backup:** EC2, RDS, ECR 백업 자동화
-
----
-
 ## 프로젝트 성과
 
 ### 기술적 성과
@@ -197,21 +195,6 @@ Terraform을 활용하여 Infrastructure as Code(IaC)를 구현하고, 시나리
 - **팀 협업 환경:** Terraform Cloud 워크스페이스를 통한 효율적인 팀 작업
 
 ---
-
-## 비즈니스 임팩트
-
-### 정량적 성과
-- **인프라 구축 시간:** 기존 4시간 → 30분 (88% 단축)
-- **환경 재생성 시간:** 수동 2시간 → 자동화 15분 (88% 단축)
-- **운영 비용:** 자동화로 인한 운영 인력 비용 60% 절감
-
-### 재해복구 개선
-- **RTO(Recovery Time Objective):** 24시간 → 2시간 (92% 단축)
-- **RPO(Recovery Point Objective):** 24시간 → 1시간 (96% 단축)
-- **백업 성공률:** 95% → 99.9% (5% 향상)
-
----
-
 ## 해결한 문제점
 
 ### 기존 문제점
@@ -242,4 +225,12 @@ Terraform을 활용하여 Infrastructure as Code(IaC)를 구현하고, 시나리
 3. **GitOps 워크플로우:** ArgoCD를 통한 Git 기반 배포 자동화
 4. **보안 우선 설계:** IAM 역할 기반 접근 제어 및 암호화 적용
 
-> [🏠 Home으로 돌아가기](index.md) 
+---
+
+<div class="back-home">
+
+> [🏠 Home으로 돌아가기](index.md)
+
+</div>
+
+</div> 

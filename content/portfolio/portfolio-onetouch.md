@@ -1,34 +1,61 @@
 ---
-title: One Touch 프로젝트 포트폴리오
+title: 코드로 인프라 자동화
 draft: false
 tags: [프로젝트, 인프라, 자동화, IaC, VM]
 aliases:
   - One Touch
 ---
 
-# One Touch: 코드로 인프라 자동화
+<div class="portfolio-content">
 
-IaC를 주제로 Python, Ansible, PowerShell을 활용하여 인프라를 코드로 자동화한 1차 프로젝트입니다.
+<div class="portfolio-header">
+
+IaC를 주제로 Python, Ansible, PowerShell을 활용하여 인프라를 코드로 자동화한 프로젝트입니다.
+
+</div>
+
+<div class="portfolio-overview">
 
 ## 프로젝트 개요
+
 - **목표:** 코드 기반 인프라 자동화 환경 구축 및 실습
 - **주요 기술:** Python, Ansible, PowerShell, VMware, GNS3, TrueNAS
 - **기간:** 2025.04.09 ~ 2025.05.02
 
+</div>
+
+<div class="team-section">
+
 ## 팀 구성 및 역할
+
+<div class="team-grid">
+
 - **PM 최호준:** 퍼블리싱 총괄, TrueNAS 코드 작성
 - **PL 홍명기:** 기술 스택 담당, VM 생성/삭제 코드 작성
 - **서기 이성현:** PPT, Vyos, Mailserver 코드 작성
 - **서기 이세일:** 문서, DNS 코드 작성
 - **발표자 박선우:** 발표, HTTP/NFS 코드 작성
 
+</div>
+
+</div>
+
 ## 전체 아키텍처
 ![구성도](./images/onetouch-architecture.png)
 
+<div class="tech-stack">
+
 ## 사용한 주요 스택
+
+<div class="tech-grid">
+
 - **VMware vSphere, ESXi:** 배포 환경 구성
 - **GNS3:** UDP 터널링 통한 네트워크 연동
 - **TrueNAS:** NFS 서버 설계 및 백업
+
+</div>
+
+</div>
 
 ## 프로젝트 주요 내용
 
@@ -140,18 +167,7 @@ IaC를 주제로 Python, Ansible, PowerShell을 활용하여 인프라를 코드
 
 ---
 
-## 비즈니스 임팩트
-
-### 정량적 성과
-- **VM 생성 시간:** 수동 10분 → 자동화 2분 (80% 단축)
-- **운영 효율성:** 반복 작업 시간 90% 절약
-
-### 품질 개선
-- **환경 일관성:** 100% 재현 가능한 인프라 환경
-- **문서화:** 코드 기반 인프라로 자동 문서화
-- **버전 관리:** Git을 통한 인프라 변경 이력 추적
-
----
+<div class="impact-section">
 
 ## 해결한 문제점
 
@@ -183,4 +199,10 @@ IaC를 주제로 Python, Ansible, PowerShell을 활용하여 인프라를 코드
 
 ---
 
-> [🏠 Home으로 돌아가기](index.md) 
+<div class="back-home">
+
+> [🏠 Home으로 돌아가기](index.md)
+
+</div>
+
+</div> 

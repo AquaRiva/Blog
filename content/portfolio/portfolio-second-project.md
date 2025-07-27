@@ -1,25 +1,44 @@
 ---
-title: 2차 프로젝트 포트폴리오
+title: 멀티 클라우드 기반 MSA 통합 인프라
 draft: false
 tags: [프로젝트, 인프라, 자동화, IaC, VM]
 aliases:
   - 2차 프로젝트
 ---
 
-# 2차 프로젝트: Spring Boot 기반 웹 애플리케이션의 클라우드 배포 및 MSA 전환
+<div class="portfolio-content">
+
+<div class="portfolio-header">
+
 
 Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하고, Monolithic에서 MSA로 전환하는 프로젝트입니다.
 
+</div>
+
+<div class="portfolio-overview">
+
 ## 프로젝트 개요
+
 - **목표:** Spring Boot 웹 애플리케이션의 클라우드 배포 및 MSA 아키텍처 전환
 - **주요 기술:** Spring Boot, AWS EKS, Kubernetes, Docker, GitHub Actions, Jenkins, ArgoCD, Prometheus, Grafana, Helm
 - **기간:** 2025.05.03 ~ 2025.06.01
 
+</div>
+
+<div class="team-section">
+
 ## 팀 구성 및 역할
+
+<div class="team-grid">
+
 - **PM 최호준:** 프로젝트 총괄, CI/CD 구성
 - **PL 홍명기:** 기술스택 담당, 멀티 클라우드 및 클러스터 구성
 - **서기 이성현:** 프로젝트 기획 문서화, Monitoring 및 Alert 구성
 - **발표자 박선우:** Spring Boot 웹 어플리케이션 구성
+
+</div>
+
+</div>
 
 ## 전체 아키텍처
 
@@ -105,7 +124,11 @@ Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하�
 
 ---
 
+<div class="tech-stack">
+
 ## 기술 스택 상세
+
+<div class="tech-grid">
 
 ### 개발 환경
 - **Spring Boot:** 웹 애플리케이션 개발 프레임워크
@@ -133,7 +156,9 @@ Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하�
 - **Site to Site VPN:** 멀티 클라우드 연결
 - **Ingress Controller:** Kubernetes 외부 접근 관리
 
----
+</div>
+
+</div>
 
 ## 프로젝트 성과
 
@@ -151,22 +176,6 @@ Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하�
 - **장애 대응력:** 단일 AZ 장애 시에도 서비스 연속성 보장
 
 ---
-
-## 비즈니스 임팩트
-
-### 정량적 성과
-- **배포 시간:** 기존 2시간 → 10분 (92% 단축)
-- **서비스 가용성:** 99.9% 달성 (월 다운타임 0.1% 이하)
-- **인프라 비용:** 멀티 AZ 구성에도 불구하고 월 20% 절감
-- **개발자 생산성:** 환경 구축 시간 95% 단축
-
-### 아키텍처 개선
-- **Monolithic → MSA 전환:** 서비스별 독립 배포 및 확장 가능
-- **멀티 클라우드 구성:** AWS + NHN Cloud 연동으로 리스크 분산
-- **무중단 배포:** Rolling Update로 서비스 중단 시간 제거
-
----
-
 ## 해결한 문제점
 
 ### 기존 문제점
@@ -199,4 +208,10 @@ Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하�
 
 ---
 
-> [🏠 Home으로 돌아가기](index.md) 
+<div class="back-home">
+
+> [🏠 Home으로 돌아가기](index.md)
+
+</div>
+
+</div> 
