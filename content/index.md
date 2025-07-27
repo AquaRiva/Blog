@@ -5,6 +5,7 @@ draft: false
 tags: []
 aliases:
   - Home
+ogImage: false
 ---
 안녕하세요. 클라우드 엔지니어, DevOps 엔지니어를 희망하는 홍명기입니다. 이 블로그에서 제가 배우고 실습한 내용을 정리하고자 합니다.
 - 여기서 저의 [이력서](./resume.md)와 [포트폴리오](./portfolio/index.md)를 확인하실 수 있습니다.
