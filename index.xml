@@ -10,37 +10,37 @@
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[ 안녕하세요. 클라우드 엔지니어, DevOps 엔지니어를 희망하는 홍명기입니다. 이 블로그에서 제가 배우고 실습한 내용을 정리하고자 합니다. 여기서 저의 이력서와 포트폴리오를 확인하실 수 있습니다. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 11:49:24 GMT</pubDate>
+    <pubDate>Sun, 27 Jul 2025 11:53:03 GMT</pubDate>
   </item><item>
     <title>Portfolio</title>
     <link>https://quartz.jzhao.xyz/portfolio/</link>
     <guid>https://quartz.jzhao.xyz/portfolio/</guid>
     <description><![CDATA[ 🚀 프로젝트 포트폴리오 ⚙️ 코드로 인프라 자동화 IaC를 주제로 Python, Ansible, PowerShell을 활용하여 인프라를 코드로 자동화 한국정보교육원 #python #ansible #powershell #vmware #gns3 #truenas 주요 성과: 🏗️ VM 생성/삭제 자동화 🔄 네트워크 자동화 💾 TrueNAS 백업 및 로그 관리 자동화 📧 메일서버/네임서버 자동화 ⚡ HTTP/NFS 서버 자동화 자세히 보기 → 🏗️ 멀티 클라우드 기반 MSA 통합 인프라 Spring Boot 기반 웹 애플리케이션... ]]></description>
-    <pubDate>Sun, 27 Jul 2025 11:49:24 GMT</pubDate>
+    <pubDate>Sun, 27 Jul 2025 11:53:03 GMT</pubDate>
   </item><item>
     <title>코드로 인프라 자동화</title>
-    <link>https://quartz.jzhao.xyz/portfolio/portfolio-onetouch</link>
-    <guid>https://quartz.jzhao.xyz/portfolio/portfolio-onetouch</guid>
+    <link>https://quartz.jzhao.xyz/portfolio/portfolio-first-project</link>
+    <guid>https://quartz.jzhao.xyz/portfolio/portfolio-first-project</guid>
     <description><![CDATA[  IaC를 주제로 Python, Ansible, PowerShell을 활용하여 인프라를 코드로 자동화한 프로젝트입니다. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 11:49:24 GMT</pubDate>
+    <pubDate>Sun, 27 Jul 2025 11:53:03 GMT</pubDate>
   </item><item>
     <title>멀티 클라우드 기반 MSA 통합 인프라</title>
     <link>https://quartz.jzhao.xyz/portfolio/portfolio-second-project</link>
     <guid>https://quartz.jzhao.xyz/portfolio/portfolio-second-project</guid>
     <description><![CDATA[  Spring Boot를 활용한 3-tier 웹 애플리케이션을 AWS EKS에 배포하고, Monolithic에서 MSA로 전환하는 프로젝트입니다. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 11:49:24 GMT</pubDate>
+    <pubDate>Sun, 27 Jul 2025 11:53:03 GMT</pubDate>
   </item><item>
     <title>Terraform을 활용한 IaC와 클라우드 DR</title>
     <link>https://quartz.jzhao.xyz/portfolio/portfolio-third-project</link>
     <guid>https://quartz.jzhao.xyz/portfolio/portfolio-third-project</guid>
     <description><![CDATA[  Terraform을 활용하여 Infrastructure as Code(IaC)를 구현하고, 시나리오 기반의 클라우드 재해복구(DR) 환경을 구성한 프로젝트입니다. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 11:49:24 GMT</pubDate>
+    <pubDate>Sun, 27 Jul 2025 11:53:03 GMT</pubDate>
   </item><item>
     <title>resume</title>
     <link>https://quartz.jzhao.xyz/resume</link>
     <guid>https://quartz.jzhao.xyz/resume</guid>
     <description><![CDATA[ 이력서 1. 성격의 장점 예상치 못한 문제가 발생해도 당황하지 않고, 차분하게 원인을 분석하고 해결 방안을 찾는 점이 강점입니다. 대학시절 동아리 활동을 하며 팀원들과 함께 리눅스 기반 서버를 구성하고 간단한 웹 서비스를 배포하는 과제를 수행한 적이 있습니다. ]]></description>
-    <pubDate>Sun, 27 Jul 2025 11:49:24 GMT</pubDate>
+    <pubDate>Sun, 27 Jul 2025 11:53:03 GMT</pubDate>
   </item>
     </channel>
   </rss>
