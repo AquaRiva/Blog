@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: portfolio
 draft: false
 tags: [portfolio, projects]
 ---
